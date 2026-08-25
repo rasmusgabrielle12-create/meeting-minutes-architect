@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议纪要架构师"
+  short_description: "将转写稿和零散笔记整理为可追溯、可执行的专业会议纪要"
+  default_prompt: "Use $meeting-minutes-architect to turn these raw meeting materials into decision-ready minutes."
